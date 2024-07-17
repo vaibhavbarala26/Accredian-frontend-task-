@@ -1,0 +1,22 @@
+.cont{
+    background-color: #EEF5FF;
+    height: 600px;
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.helo1{
+    position: relative;
+    right: 390px;
+    bottom: 300px;
+}
+.helo2{
+    position: relative;
+    
+    bottom: 420px;
+}
+.helo3{
+    position: relative;
+    left:400px;
+    bottom: 520px;
+}
